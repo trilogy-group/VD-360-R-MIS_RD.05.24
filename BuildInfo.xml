@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BuildInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://voltdelta.net/QA/BuildInfo.xsd" xmlns:bi="http://voltdelta.net/QA/BuildInfo.xsd">
+  <CopyRight>
+    # This software is distributed only by license
+    # Copyright 1997-2010 by Volt Delta International. All Rights Reserved
+  </CopyRight>
+  <Software bi:softwareName="mis_rd 05.24" bi:projectId="R-MIS_RD.05.24" bi:buildId="10" />
+	<SoftwareDependencies>
+    <SourceEnvironment>
+      <Sources>
+        <Source bi:projectId="MIS_RD.05.24" bi:baselineNumber="13" />
+      </Sources>
+    </SourceEnvironment>
+		<RuntimeEnvironment>
+      <OperatingSystem><!--and operating system components-->
+        <Item>Microsoft Windows XP Prof</Item>
+      </OperatingSystem>
+
+      <IncludedSoftware/>
+			<Compatibilities>
+			</Compatibilities>
+			<Incompatibilities>
+			</Incompatibilities>
+      <Remarks/>
+		</RuntimeEnvironment>
+	</SoftwareDependencies>
+</BuildInfo>
+
+
